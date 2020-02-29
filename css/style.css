@@ -1,0 +1,100 @@
+
+
+header {
+    background-color: gray;
+    height: 150px;
+    margin: 55px ;
+    margin-bottom: 0px;
+    margin-top: 30px;
+}
+
+
+
+img#logo {
+    width: 200px;
+    height: 70px;
+    float: left;
+    margin-left: 142px;
+    margin-top: 37px;
+}
+
+a {
+    text-decoration: none;
+    padding: 32px;
+    color: white;
+    opacity: 0.5;
+}
+
+nav {
+    
+    padding: 69px;
+}
+
+#heroimg{
+width: 960px;
+height: 450px;
+margin-left: 200px;
+margin-top: 30px;
+}
+
+#sub{
+    width: 300px;
+height: 375px;
+float: left;
+}
+
+section {
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+#sub1{
+    margin-left: 30px;
+    width: 300px;
+    height: 375px;
+    float: left;
+}
+
+#sub2{
+    margin-left: 30px;
+    width: 300px;
+    height: 375px;
+    float: left;
+}
+
+#fetsub{
+    width: 480px;
+    height: 400px;
+    float: left;
+    
+    margin-top: 30px;
+
+}
+#overflowTest {
+    
+    
+    width: 440px;
+    height: 340px;
+    overflow: scroll;
+   
+    margin-top: 30px;
+    margin-right: 350px;
+    float: right;
+  }
+
+  /* footer{
+    background-color: gray;
+    height: 150px;
+    
+  } */
+
+  p:hover{
+      background-color: black;
+      color: white;
+      
+  }
+  p {
+    width: 91px;
+    margin-left: 200px;
+    
+}
